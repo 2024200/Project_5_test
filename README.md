@@ -4,7 +4,7 @@ This project was an integrated end of term assignment for my data analytics, dat
 
 ### Dataset
 
-The full dataset is linked here [LINK](https://github.com/2024200/Project_5_test/blob/2e3f62a90d7de844c6a935d2a9a6e4d9c2d08b3b/Dataset/Data%20Dictionary%20Healthcare%20copy%202.docx)
+The full dataset is linked here [Link](https://github.com/2024200/Project_5_test/blob/2e3f62a90d7de844c6a935d2a9a6e4d9c2d08b3b/Dataset/Data%20Dictionary%20Healthcare%20copy%202.docx)
 
 5000 entries, total 15 columns - Memory Usage: 586.1+ KB
 
