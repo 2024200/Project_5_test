@@ -40,7 +40,7 @@ QDA
 
 ### **Results**
 
-*** The dataset used was randomly generated with target feature having four variables, which contributed to the poor results observed in the statistical tests and models. ***
+**The dataset used was randomly generated with target feature having four variables, which contributed to the poor results observed in the statistical tests and models.***
 
 Stats 
 
