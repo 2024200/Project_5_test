@@ -1,6 +1,6 @@
 ### Description
 
-This project was an integrated end of term assignment for my data analytics, data preparation and machine learning. It involved analysing a healthcare dataset to improve treatment outcomes and operational efficiency. The tasks included descriptive and inferential statistical tests, feature engineering, and dimensionality reduction using LDA and PCA. Both supervised and unsupervised models were used 
+This project was an integrated end of term assignment for my data analytics, data preparation and machine learning college courses. It involved analysing a healthcare dataset to improve treatment outcomes and operational efficiency. The tasks included descriptive and inferential statistical tests, feature engineering, and dimensionality reduction using LDA and PCA. Both supervised and unsupervised models were used 
 
 ### Dataset
 
